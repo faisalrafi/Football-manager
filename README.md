@@ -1,2 +1,2 @@
-# E-dashboard
-Simple E commerce dashboard build with react and node
+# BS-Football Manage
+Football Manager web application
